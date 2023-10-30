@@ -1,7 +1,7 @@
 # dictionary-attack.py
 
 Dictionary Attack Tool
-
+Ability to decrypt ZIP files with various encryption methods, including AES!!!!!!!!!!!!!!!!!!
 The "Dictionary Attack Tool" is a program created by PythonPhreak designed to assist in the recovery of password-protected ZIP files. It can use a predefined list of passwords (dictionary) or dynamically generate possible passwords for a "brute force" attack.
 
 How to Use:
